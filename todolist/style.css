@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+  
+  html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Manrope', sans-serif;
+    color: white;
+    font-weight: 400;
+    height: 100vh;
+    background-color: black;
+    padding: 2.5rem;
+    text-align: center;
+  }
+  
+  h1
+  {
+    padding: 5rem 0;
+    font-size: 50px;
+
+  }
+
+  .form {
+    padding:5rem 0 ;
+  }
+
+  .form__input
+  {
+    padding: 1rem 2rem;
+    width: 50rem;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+  
+
+  .btn 
+  {
+    padding: 1rem 2rem;
+    width: 8rem;
+    background-color: black;
+    color: white;
+    border: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h3
+{
+    font-size:20px ;
+
+}
+
+.hidden {
+    opacity: 0;
+}
+  
